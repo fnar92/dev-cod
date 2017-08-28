@@ -1,0 +1,651 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@media screen and (max-width: 1300px){
+
+
+#headerwrap {
+    padding-top: 9%;
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+.margin_bottom {
+	width:100%;
+	height:50px;
+	    bottom: 0;
+    position: absolute;
+    width: 100%;
+	    margin-bottom: -60px;
+		display:block;
+}
+
+
+}
+
+@media screen and (max-width: 1025px){
+
+#login {
+    height: 400px;
+    width: 500px;
+    margin-left: 240px;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+#headerwrap {
+    padding-top: 15%;
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+#sala {
+	display:none;
+}
+
+#cochera {
+	display:none;
+}
+
+#backyard {
+	display:none;
+}
+
+#bano {
+	display:none;
+}
+
+#cocina {
+	display:none;
+}
+
+#comedor {
+	display:none;
+}
+
+#entretenimiento {
+	display:none;
+}
+
+#estudio {
+	display:none;
+}
+
+#frontyard {
+	display:none;
+}
+
+#lobby {
+	display:none;
+}
+
+#mainroom {
+	display:none;
+}
+
+#office {
+	display:none;
+}
+
+#pool {
+	display:none;
+}
+
+#secondroom {
+	display:none;
+}
+
+#usos_multiples{
+	display:none;
+}
+
+.col-xs-6 {
+    width: 100%;
+    float: right;
+}
+
+#sala_responsive {
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    background-image: url(../../img/sala.jpg);
+    background-size: cover;
+	    background-position: right;
+}
+
+#cochera_responsive {
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    background-image: url(../../img/cochera.jpg);
+    background-size: cover;
+	    background-position: left;
+}
+
+#backyard_responsive {
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    background-image: url(../../img/backyard.jpg);
+    background-size: cover;
+	    background-position: left;
+}
+
+#bano_responsive {
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    background-image: url(../../img/bano.jpg);
+    background-size: cover;
+	    background-position: left;
+}
+
+#cocina_responsive {
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    background-image: url(../../img/cocina.jpg);
+    background-size: cover;
+	    background-position: left bottom;
+}
+
+#comedor_responsive {
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    background-image: url(../../img/comedor.jpg);
+    background-size: cover;
+	    background-position: center;
+}
+
+#entretenimiento_responsive {
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    background-image: url(../../img/entretenimiento_responsive.jpg);
+    background-size: cover;
+	    background-position: center;
+}
+
+#estudio_responsive {
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    background-image: url(../../img/estudio_responsive.jpg);
+    background-size: cover;
+	    background-position: center;
+}
+
+#frontyard_responsive {
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    background-image: url(../../img/frontyard.jpg);
+    background-size: cover;
+	    background-position: center;
+}
+
+#lobby_responsive {
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    background-image: url(../../img/lobby.jpg);
+    background-size: cover;
+	    background-position: center;
+}
+
+#mainroom_responsive {
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    background-image: url(../../img/mainroom.jpg);
+    background-size: cover;
+	    background-position: center;
+}
+
+#office_responsive {
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    background-image: url(../../img/office.jpg);
+    background-size: cover;
+	    background-position: center;
+}
+
+#pool_responsive {
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    background-image: url(../../img/pool.jpg);
+    background-size: cover;
+	    background-position: center;
+}
+
+#secondroom_responsive {
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    background-image: url(../../img/secondroom.jpg);
+    background-size: cover;
+	    background-position: center;
+}
+
+#usos_multiples_responsive{
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    background-image: url(../../img/usos_multiples.jpg);
+    background-size: cover;
+	    background-position: center;
+}
+
+#franja3 {
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 5px;
+    background-color: #39b44a;
+
+}
+
+#franja4{
+    display: block;
+        top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 3px;
+    background-color: #8bc53f;
+	
+}
+
+.area {
+    bottom: 0;
+    width: 100%;
+    font-size: 70px;
+    
+    padding-top: 420px;
+    height: 70px;
+    font-family: 'Baloo Thambi', cursive;
+    color: #f8f8f8;
+	    position: inherit;
+}
+
+.space {
+    width: 100%;
+    height: 120px;
+}
+
+
+}
+
+@media (max-width: 1000px) {
+
+.navbar-nav .open .dropdown-menu {
+    position: static;
+    float: none;
+        width: 100%;
+    display: -webkit-inline-box;
+    margin-top: 0;
+    background-color: transparent;
+    border: 0;
+    box-shadow: none;
+    z-index: 1000000000000000;
+    background: #d61616;
+    margin-top: 21px;
+}
+
+.navbar-nav > li {
+    float: left;
+    height: 76px;
+    margin-top: -20px;
+    padding-top: 20px;
+    transition: ease-in .3s;
+    width: 100%;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+    padding-top: 8px;
+    height: 380px;
+	    display: none;
+}
+
+.dropdown-menu {
+    width: 100%;
+	    margin: -5%;
+}
+
+}
+
+@media screen and (max-width: 798px){
+
+#login {
+    height: 400px;
+    width: 500px;
+    margin-left: 120px;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+#headerwrap {
+    padding-top: 35%;
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+#option_right {
+    padding-left: 9.55%;
+}
+
+}
+
+@media screen and (max-width: 740px){
+
+#headerwrap {
+    padding-top: 16%;
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+html, body {
+    overflow-y: auto;
+	overflow-x:hidden;
+}
+
+#footerwrap {
+    /* padding-top: 60px; */
+    /* padding-bottom: 60px; */
+    background: #404041;
+    /* bottom: 0; */
+    position: inherit;
+    width: 100%;
+    height: 70px;
+    margin-top: 30px;
+}
+
+#login {
+    height: 400px;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+.area {
+	display:none;
+}
+
+.option_cell {
+    display: none;
+}
+
+.option_cell_options {
+    display: none;
+}
+
+#device_options_resposive {
+	display:block;
+	    width: 90%;
+		margin-left:5%;
+		margin-bottom:40px;
+}
+
+/*.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 0px;
+    padding-left: 0px;
+}*/
+
+}
+
+
+@media screen and (max-width: 415px){
+
+#login {
+    height: 400px;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+.txt_login {
+    font-family: 'Lato', sans-serif;
+    width: 80%;
+    margin-top: 23px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-left: 15%;
+    padding-left: 5px;
+}
+
+#headerwrap {
+    padding-top: 40%;
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+#btn_login {
+    width: 90%;
+}
+
+#option_left {
+    padding-right: 0%;
+}
+
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+
+    padding-right: 0px;
+    padding-left: 0px; 
+}
+
+#option_right {
+    padding-left: 14.55%;
+}
+
+}
+
+@media screen and (max-width: 380px){
+
+#login {
+    height: 400px;
+    width: 94%;
+    margin-left: 3%;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+}
+
+@media screen and (max-width: 325px){
+
+#login {
+    height: 400px;
+    width: 94%;
+    margin-left: 3%;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+}
+
+@media screen and (max-width: 450px){
+	
+	.zone_name_devices {
+    font-size: 18px;
+
+}
+
+#btn_edit {
+    width: 100%;
+}
+
+#btn_use {
+    width: 100%;
+}
+
+#btn_erase {
+    width: 100%;
+
+}
+
+
+#device_data_cell {
+    width: 100%;
+    margin-left: 5%;
+}
+
+
+
+.col-xs-11 {
+    width: 100%;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.device_name {
+    width: 100%;
+    font-family: 'Baloo Thambi', cursive;
+    font-size: 17px;
+    color: #404041;
+    padding-top: 20px;
+    float: none;
+}
+
+.device_id {
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    font-size: 11px;
+    color: #878787;
+    float: none;
+    margin-top: 2px;
+}
+
+#user00 {
+    margin-right: 12px;
+}
+
+#user01 {
+    margin-right: 12px;
+}
+
+#user02 {
+    margin-right: 12px;
+}
+
+}
+
+@media screen and (max-width: 750px){
+.login-page {
+  width: 360px;
+}
+.form {
+  max-width: 360px;
+      padding-bottom: 160px;
+}
+
+.btn_left {
+	width: 100%;
+	margin-left:0%;
+}
+
+.btn {
+    width: 100%;
+	margin-left:0%;
+}
+
+}
+
+@media screen and (max-width: 350px){
+.login-page {
+  width: 295px;
+}
+.form {
+  max-width: 295px;
+}
+
+}

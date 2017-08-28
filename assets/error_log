@@ -1,0 +1,146 @@
+[25-Jan-2017 19:27:02 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin-winit-sr'@'localhost' to database 'geo_posicion' in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 8
+[25-Jan-2017 19:27:46 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin-winit-sr'@'%.%.%.%' to database 'geo_posicion' in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 8
+[25-Jan-2017 19:27:48 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin-winit-sr'@'%.%.%.%' to database 'geo_posicion' in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 8
+[25-Jan-2017 19:27:50 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'admin-winit-sr'@'%.%.%.%' to database 'geo_posicion' in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 8
+[25-Jan-2017 19:28:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'codwin'@'ip-107-180-46-184.ip.secureserver.net' (using password: NO) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 8
+[25-Jan-2017 19:28:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'codwin'@'ip-107-180-46-184.ip.secureserver.net' (using password: NO) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 8
+[25-Jan-2017 19:28:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'codwin'@'ip-107-180-46-184.ip.secureserver.net' (using password: NO) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 8
+[25-Jan-2017 13:42:26 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 27
+[25-Jan-2017 13:42:48 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 27
+[25-Jan-2017 13:42:48 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 49
+[25-Jan-2017 13:43:06 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 27
+[25-Jan-2017 13:43:06 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 49
+[25-Jan-2017 14:03:06 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[25-Jan-2017 14:03:26 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[25-Jan-2017 14:04:06 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[25-Jan-2017 14:04:26 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[25-Jan-2017 14:04:46 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[25-Jan-2017 14:05:06 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[25-Jan-2017 14:05:26 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[25-Jan-2017 14:08:46 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[25-Jan-2017 14:09:06 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[25-Jan-2017 14:09:27 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[25-Jan-2017 14:11:46 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[25-Jan-2017 14:13:46 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[25-Jan-2017 14:14:46 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[25-Jan-2017 14:15:06 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 12:47:57 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 12:49:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 12:50:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 12:50:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 12:51:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 12:51:57 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 12:52:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 12:53:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 12:53:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 12:54:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 12:54:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 12:56:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 12:56:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 12:58:37 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 12:58:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 18:08:17 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:08:40 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:08:53 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:10:54 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:11:42 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:11:55 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:12:22 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:12:31 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:12:37 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:13:07 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:13:13 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:13:36 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:13:38 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:14:15 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:14:19 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:14:20 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:14:48 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:16:12 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 18:16:19 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 54
+[07-Apr-2017 13:32:17 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:32:17 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 59
+[07-Apr-2017 13:32:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:32:37 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 59
+[07-Apr-2017 13:33:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:33:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 59
+[07-Apr-2017 13:35:17 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:35:57 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:36:17 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:36:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:36:57 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:37:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:37:37 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:37:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:37:57 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:38:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:38:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:38:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:38:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:39:37 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:39:37 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:40:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:40:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:40:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:40:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:41:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:41:17 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:41:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:41:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:42:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:42:17 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:44:17 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:44:17 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:45:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:45:17 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:45:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:45:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:47:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:47:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:48:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:48:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:48:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:48:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:49:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:49:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:50:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:50:17 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:50:57 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:50:57 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:51:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:51:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:52:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:52:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:52:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:52:37 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:53:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:53:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:53:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:53:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:53:57 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:53:57 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:54:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:54:57 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:55:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:55:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:55:37 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:55:37 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:56:57 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:56:57 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:57:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:57:36 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:57:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:57:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:58:37 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:58:37 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:58:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:58:57 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 13:59:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 13:59:56 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[07-Apr-2017 14:01:16 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 28
+[07-Apr-2017 14:01:17 America/Mexico_City] PHP Notice:  Array to string conversion in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 60
+[15-Aug-2017 17:59:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.169.226.9' (110) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 8
+[15-Aug-2017 17:59:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.169.226.9' (110) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 8
+[15-Aug-2017 17:59:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.169.226.9' (110) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 8
+[15-Aug-2017 17:59:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.169.226.9' (110) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 8
+[15-Aug-2017 18:16:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.169.226.9' (110) in /home/codwin/public_html/codiga.mx/assets/codigatotal.php on line 8

@@ -1,0 +1,207 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@media (min-width: 1200px){
+.container {
+    width: 100%;
+}
+
+}
+
+@media screen and (max-width: 1024px){
+
+
+.lateral_bar {
+    width: 350px;
+}
+
+.lateral_bar h1 {
+    font-size: 30px;
+}
+
+.footerwrap {
+	padding-left: 400px;
+}
+
+.content_numerador{
+    padding-left: 70px;
+}
+
+.title_description {
+    width: 70%;
+    margin-left: 15%;
+}
+
+.cont_form {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.select_cow_cell {
+    width: 33.3%;
+}
+
+.select_cow_cell_color {
+    width: 33.3%;
+}
+
+.cont_pago {
+    width: 80%;
+    margin-left: 10%;
+}
+
+
+
+}
+
+@media screen and (max-width: 770px){
+
+
+.lateral_bar {
+	width: 100%;
+	height: 480px;
+	padding-top: 92px;
+}
+
+.footerwrap {
+	padding-left: 30px;
+}
+
+
+#ignorar_solo_pruebas_tablet{
+	display:none;
+}
+
+.content_numerador{
+    padding-left: 37%;
+	padding-top: 75px;
+}
+
+.title_description {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.col-xs-6 {
+    width: 100%;
+    float: left;
+    padding-top: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+	padding-bottom: 0px;
+}
+
+.select_cow_cont {
+    margin-top: 50px;
+}
+
+.numerador {
+    margin-top: 40px;
+}
+
+}
+
+@media screen and (max-width: 740px){
+
+
+.lateral_bar {
+	width: 100%;
+	height:410px;
+	padding-top: 82px;
+}
+
+#ignorar_solo_pruebas_mobiles{
+	display:none;
+}
+
+.numerador {
+    margin-top: 22px;
+}
+
+.select_cow_cell {
+    width: 100%;
+}
+
+.select_cow_cell_color {
+    width: 100%;
+}
+
+.cont_pago {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.btn-pago {
+    width: 270px;
+    height: 55px;
+	background-image:url(../../img/paypal_responsive.png);
+    text-align: center;
+    transition: ease-in-out .3s;
+	    display: -webkit-inline-box;
+}
+
+.btn-pago:hover {
+    width: 270px;
+    height: 55px;
+	background-image:url(../../img/paypal_responsive_hover.png);
+    text-align: center;
+    transition: ease-in-out .3s;
+}
+
+}
+
+@media screen and (max-width: 350px){
+
+.lateral_bar h1 {
+    font-size: 27px;
+}
+
+
+}
+
+@media screen and (max-width: 450px){
+	
+.title {
+    margin-top: 105px;
+    font-size: 34px;
+}
+
+.cont_form {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.btn-option {
+    width: 90%;
+}
+
+.col-xs-6 {
+
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.subtitle {
+    font-size: 24px;
+}
+
+.ask-name {
+
+    font-size: 15px;
+	
+	}
+	
+	.select_cow_cont {
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+@media screen and (max-width: 1000px){
+
+.navbar-nav {
+    float: left;
+    margin: 0;
+}
+
+}
