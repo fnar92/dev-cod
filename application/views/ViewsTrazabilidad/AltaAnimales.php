@@ -16,7 +16,7 @@
                 <input class="txt-camp" type="Text" onkeyup="mycheckname(this.value)" name="Nombre" required/>
 
                 <div class="box-option"><div class="squaredFour">
-                        <input type="checkbox"  id="box" name="Procedencia" data-toggle="modal" data-target="#myModal" value="adquisicion" required/>
+                        <input type="checkbox"  id="box" name="Procedencia" data-toggle="modal" data-target="#myModal" value="adquisicion"/>
                         <label for="box"></label>
                     </div>
                     Adquisición

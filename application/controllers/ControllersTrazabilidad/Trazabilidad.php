@@ -317,7 +317,7 @@ class Trazabilidad extends CI_Controller {
         $data['nombre'] = $this->input->post('Nombre');
         $data['fec_nac'] = $this->input->post('FechaNac');
         $data['genero'] = $this->input->post('sexo');
-        $data['raza'] = $this->input->post('Razas');
+        $data['raza_id'] = $this->input->post('Razas');
         $data['color'] = $this->input->post('Color');
 
         $data['padre'] = $this->input->post('NombrePadre');
@@ -462,11 +462,11 @@ class Trazabilidad extends CI_Controller {
             $iduser = $this->input->post('id');
 
             $idvacuna = $this->ModelTrazabilidad->catalagodepadres($key, $iduser);
-
+            
             $idraza = $this->ModelTrazabilidad->catalagodepadresraza($key, $iduser);
-
+            
             $codevacuna = $idvacuna->id_cabeza;
-            $coderaza = $idraza->raza;
+            $coderaza = $idraza->raza_id;
 
 
             echo $codevacuna . " " . $coderaza;

@@ -14,7 +14,7 @@ class ModelTrazabilidad extends CI_Model {
             'nombre' => $data['nombre'],
             'fecha_nacimiento' => $data['fec_nac'],
             'sexo' => $data['genero'],
-            'raza' => $data['raza'],
+            'raza_id' => $data['raza_id'],
             'color' => $data['color'],
             'padre' => $data['padre'],
             'raza_padre' => $data['raza_padre'],
@@ -309,7 +309,7 @@ class ModelTrazabilidad extends CI_Model {
 
     public function catalagodepadresraza($key, $iduser) {
 
-        $this->db->select('raza');
+        $this->db->select('raza_id');
         $this->db->from('cabeza_ganado');
         $this->db->like('nombre', $key);
         $this->db->where('usuario_id_usuario', $iduser);
