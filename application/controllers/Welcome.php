@@ -226,40 +226,41 @@ window.location.href='../Login';
         $mail->sendMail($data);
         return true;
     }
+    
 
-    public function activateAccount() {
-        $id = $this->input->get('account_id');
-        $email = $this->input->get('account_email');
+    public function test() {
+        $email="pacoooo@t.com";
 
         $User = $this->ModelWelcome->Check($email);
 
         $cid = $User->id_usuario;
         $cemail = $User->correo;
         $status = $User->status;
-
-        if ($id == $cid && $email == $cemail) {
-
-            if ($status == NULL) {
-                $this->ModelWelcome->activateAccount($id, $email);
-                $User = $this->ModelWelcome->Check($email);
-
-                $session = array(
-                    'auth' => true,
-                    'Id' => $User->id_usuario,
-                    'Email' => $User->correo,
-                    'Status' => $User->status,
-                    'Fecha' => $User->fecha_paga,
-                    'FechaProx' => $User->fecha_paga_prox
-                );
-                $this->session->set_userdata($session);
-
-                redirect("TuInformacion");
-            } else {
-                redirect("Login");
-            }
-        } else {
-            redirect("Login");
-        }
+        
+        $id=$cid;
+        $this->load->library('MPHPmailers');
+        $mail = new MPHPmailers();
+        $inssue = "Confirmación de registro en CODIGA";
+        $email_destination = $email;
+        $name_destination = "Usuario CODIGA";
+        $base = base_url();
+        $link = base_url() . "index.php/activate?account_id=" . $id . "&account_email=" . $email_destination;
+        $body = "<h4><strong>Estimado usuario:</strong></h4>"
+                . "<p>Has recibido este mensaje porque esta dirección de correo electrónico se ha utilizado para el registro en CODIGA. Para completar el proceso de registro, haga clic en el enlace de activación a continuación:</p>"
+                . ""
+                . "<p><a href='$link'>$link</a></p>"
+                . "<h4><strong>Pagina Web: </strong></h4><a href='$base'>$base</a>";
+        $alt_body = "<p>Text</p>";
+        $data = array(
+            'inssue' => $inssue,
+            'email_destination' => $email_destination,
+            'name_destination' => $name_destination,
+            'body' => $body,
+            'alt_body' => $alt_body
+        );
+        $mail->sendMail($data);
+        return true;
+        
     }
 
     public function EditInf() {
